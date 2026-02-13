@@ -22,6 +22,37 @@ public:
 
 int Soldier::count = 0;
 
+class Sprite
+{
+private:
+	int* pixels = nullptr;
+public:
+	Sprite()
+	{
+		if (pixels == nullptr)
+		{
+			pixels = new int(1024);
+		}
+	}
+	Sprite(const Sprite & clone)
+	{
+		pixels = clone.pixels;
+	}
+	~Sprite()
+	{
+		delete pixels;
+	}
+};
+
+class Mesh
+{
+private:
+	float* vartices = new float();
+public:
+
+
+};
+
 int main()
 {
 #pragma region 생성자
@@ -56,23 +87,35 @@ int main()
 	// 객체를 복사할 때 주소 값을 복사하여 같은
 	// 메모리 공간을 가리키게 하는 복사입니다.
 
-	int* address = new int;
-	
-	int* share = address;
+	// int* address = new int;
+	// 
+	// int* share = address;
+	// 
+	// *address = 10;
+	// 
+	// cout << "address 변수의 값 : " << address << endl;
+	// cout << "share 변수의 값 : " << share << endl;
+	// 
+	// cout << "address가 가리키는 값 : " << *address << endl;
+	// cout << "share가 가리키는 값 : " << *share << endl;
+	// 
+	// delete address;
+	// delete share;
 
-	*address = 10;
+	//Sprite original;
 
-	cout << "address 변수의 값 : " << address << endl;
-	cout << "share 변수의 값 : " << share << endl;
-
-	cout << "address가 가리키는 값 : " << *address << endl;
-	cout << "share가 가리키는 값 : " << *share << endl;
+	//Sprite copied(original);
 
 	// 얕은 복사의 경우 같은 객체가 서로 같은 메모리 공간을
 	// 참조하고 있기 때문에 하나의 객체로 값을 변경하게 되면
 	// 서로 참조된 객체도 함께 영향을 받습니다.
 #pragma endregion
 
+#pragma region 깊은 복사
+	// 객체를 복사할 때, 참조 값이 아닌 객체 자체로 새로
+	// 복사하여 서로 다른 메모리를 생성하는 복사입니다.
+
+#pragma endregion
 
 
 	return 0;
