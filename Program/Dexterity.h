@@ -3,6 +3,8 @@
 class Dexterity : public Stat
 {
 public:
-	void Enhance();
+	virtual void Enhance() override;
+
+	virtual ~Dexterity();
 };
 

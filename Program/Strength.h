@@ -3,6 +3,8 @@
 class Strength : public Stat
 {
 public:
-	void Enhance();
+	virtual void Enhance() override;
+
+	virtual ~Strength();
 };
 

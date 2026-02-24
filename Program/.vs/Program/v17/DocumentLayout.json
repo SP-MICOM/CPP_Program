@@ -3,20 +3,55 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Wisdom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|solutionrelative:Wisdom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Strength.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|solutionrelative:Strength.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Dexterity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|solutionrelative:Dexterity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Messege.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|solutionrelative:Messege.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Wisdom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|solutionrelative:Wisdom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Stat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|solutionrelative:Stat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Messege.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|solutionrelative:Messege.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Stat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|solutionrelative:Stat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Strength.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|solutionrelative:Strength.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Dexterity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|solutionrelative:Dexterity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|solutionrelative:stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D1ACAD-8829-4A54-BB71-28D5B44FFE20}|..\\Class1th (Stream)\\Class1th (Stream).vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class1th (Stream)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A839853-F579-4294-9646-FDFE248849BC}|..\\Class 4th (Inheritance)\\Class 4th (Inheritance).vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Potion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -36,9 +71,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7A839853-F579-4294-9646-FDFE248849BC}|..\\Class 4th (Inheritance)\\Class 4th (Inheritance).vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Consumable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7A839853-F579-4294-9646-FDFE248849BC}|..\\Class 4th (Inheritance)\\Class 4th (Inheritance).vcxproj|solutionrelative:Consumable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19D1ACAD-8829-4A54-BB71-28D5B44FFE20}|..\\Class1th (Stream)\\Class1th (Stream).vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class1th (Stream)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,7 +80,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -56,7 +88,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Wisdom.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Wisdom.cpp",
+              "RelativeDocumentMoniker": "Wisdom.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Wisdom.cpp",
+              "RelativeToolTip": "Wisdom.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-24T11:37:52.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dexterity.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Dexterity.h",
+              "RelativeDocumentMoniker": "Dexterity.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Dexterity.h",
+              "RelativeToolTip": "Dexterity.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-24T11:23:01.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Strength.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Strength.h",
+              "RelativeDocumentMoniker": "Strength.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Strength.h",
+              "RelativeToolTip": "Strength.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-24T11:22:59.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Wisdom.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Wisdom.h",
+              "RelativeDocumentMoniker": "Wisdom.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Wisdom.h",
+              "RelativeToolTip": "Wisdom.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-24T11:22:56.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Strength.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Strength.cpp",
+              "RelativeDocumentMoniker": "Strength.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Strength.cpp",
+              "RelativeToolTip": "Strength.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-24T11:19:56.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dexterity.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Dexterity.cpp",
+              "RelativeDocumentMoniker": "Dexterity.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Dexterity.cpp",
+              "RelativeToolTip": "Dexterity.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-24T11:19:54.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Stat.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Stat.h",
+              "RelativeDocumentMoniker": "Stat.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Stat.h",
+              "RelativeToolTip": "Stat.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-24T11:17:18.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Stat.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Stat.cpp",
+              "RelativeDocumentMoniker": "Stat.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Stat.cpp",
+              "RelativeToolTip": "Stat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-24T10:58:54.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Potion.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Potion.h",
               "RelativeDocumentMoniker": "Potion.h",
@@ -64,12 +200,11 @@
               "RelativeToolTip": "Potion.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-20T12:21:18.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T12:21:18.607Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "Potion.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Potion.cpp",
               "RelativeDocumentMoniker": "Potion.cpp",
@@ -77,12 +212,11 @@
               "RelativeToolTip": "Potion.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-20T11:14:49.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T11:14:49.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "Consumable.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Consumable.h",
               "RelativeDocumentMoniker": "Consumable.h",
@@ -90,12 +224,11 @@
               "RelativeToolTip": "Consumable.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-20T12:17:41.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T12:17:41.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "Consumable.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Consumable.cpp",
               "RelativeDocumentMoniker": "Consumable.cpp",
@@ -103,12 +236,11 @@
               "RelativeToolTip": "Consumable.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-20T12:17:38.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T12:17:38.661Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Messege.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Messege.cpp",
               "RelativeDocumentMoniker": "Messege.cpp",
@@ -121,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Messege.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Messege.h",
               "RelativeDocumentMoniker": "Messege.h",
@@ -134,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "stdafx.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\stdafx.h",
               "RelativeDocumentMoniker": "stdafx.h",
@@ -147,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class 4th (Inheritance)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class 4th (Inheritance)\\Source.cpp",
@@ -155,30 +287,30 @@
               "RelativeToolTip": "..\\Class 4th (Inheritance)\\Source.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-20T11:13:12.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T11:13:12.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class1th (Stream)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class1th (Stream)\\Source.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class1th (Stream)\\Source.cpp",
               "RelativeToolTip": "..\\Class1th (Stream)\\Source.cpp",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-13T11:06:51.112Z"
+              "WhenOpened": "2026-02-13T11:06:51.112Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Program.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-10T11:05:13.019Z",
               "EditorCaption": ""

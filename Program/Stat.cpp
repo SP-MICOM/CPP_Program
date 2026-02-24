@@ -3,5 +3,10 @@
 
 void Stat::Enhance()
 {
-	cout << "your Strength has increased" << endl;
+	cout << "your Stat has increased" << endl;
 }
+
+Stat::~Stat()
+{
+	cout << "Destroyed Stat" << endl;
+}			   
