@@ -104,7 +104,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <PrecompiledHeader>Create</PrecompiledHeader>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -129,20 +129,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Dexterity.cpp" />
-    <ClCompile Include="Messege.cpp" />
+    <ClCompile Include="Block.cpp" />
+    <ClCompile Include="Concrete.cpp" />
     <ClCompile Include="Program.cpp" />
-    <ClCompile Include="Stat.cpp" />
-    <ClCompile Include="Strength.cpp" />
-    <ClCompile Include="Wisdom.cpp" />
+    <ClCompile Include="Stone.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Dexterity.h" />
-    <ClInclude Include="Messege.h" />
-    <ClInclude Include="Stat.h" />
+    <ClInclude Include="Block.h" />
+    <ClInclude Include="Concrete.h" />
     <ClInclude Include="stdafx.h" />
-    <ClInclude Include="Strength.h" />
-    <ClInclude Include="Wisdom.h" />
+    <ClInclude Include="Stone.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
