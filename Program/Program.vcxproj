@@ -104,7 +104,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <PrecompiledHeader>Create</PrecompiledHeader>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -129,16 +129,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Block.cpp" />
-    <ClCompile Include="Concrete.cpp" />
     <ClCompile Include="Program.cpp" />
-    <ClCompile Include="Stone.cpp" />
+    <ClCompile Include="Vector2.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Block.h" />
-    <ClInclude Include="Concrete.h" />
-    <ClInclude Include="stdafx.h" />
-    <ClInclude Include="Stone.h" />
+    <ClInclude Include="Vector2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
