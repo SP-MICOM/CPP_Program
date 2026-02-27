@@ -9,9 +9,13 @@ int main()
 	Vector2 point1D(1, 0);
 	Vector2 point2D(0, 1);
 
-	// Vector2 direction = point1D + point2D;
+	Vector2 direction = point1D + point2D;
+
+	++direction;
 
 #pragma endregion
+
+
 
 	return 0;
 }
