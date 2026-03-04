@@ -138,7 +138,6 @@
     <ClInclude Include="..\Program\Dexterity.h" />
     <ClInclude Include="..\Program\Messege.h" />
     <ClInclude Include="..\Program\Stat.h" />
-    <ClInclude Include="..\Program\stdafx.h" />
     <ClInclude Include="..\Program\Strength.h" />
     <ClInclude Include="..\Program\Wisdom.h" />
   </ItemGroup>

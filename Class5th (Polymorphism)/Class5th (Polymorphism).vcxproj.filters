@@ -44,9 +44,6 @@
     <ClInclude Include="..\Program\Messege.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="..\Program\stdafx.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
     <ClInclude Include="..\Program\Strength.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
