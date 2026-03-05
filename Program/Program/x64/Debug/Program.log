@@ -1,44 +1,4 @@
-﻿  Container.cpp
-  Program.cpp
-C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(34,18): warning C4244: '+=': 'T'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(34,18): warning C4244:         with
-C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(34,18): warning C4244:         [
-C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(34,18): warning C4244:             T=float
-C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(34,18): warning C4244:         ]
-      C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(34,18):
-      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
-          C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(50,32):
-          컴파일되는 클래스 템플릿 인스턴스화 'Container<float>'에 대한 참조를 확인하세요.
-          C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(29,1):
-          클래스 템플릿 멤버 함수 'const int &Container<float>::Sum(void)'을(를) 컴파일하는 중입니다.
-  
-C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(34,18): warning C4244: '+=': 'T'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(34,18): warning C4244:         with
-C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(34,18): warning C4244:         [
-C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(34,18): warning C4244:             T=double
-C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(34,18): warning C4244:         ]
-      C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(34,18):
-      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
-          C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(51,33):
-          컴파일되는 클래스 템플릿 인스턴스화 'Container<double>'에 대한 참조를 확인하세요.
-          C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(29,1):
-          클래스 템플릿 멤버 함수 'const int &Container<double>::Sum(void)'을(를) 컴파일하는 중입니다.
-  
-C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(34,9): error C2297: '+=': 오른쪽 피연산자의 유형이 'T'이므로 유효하지 않습니다.
-C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(34,9): error C2297:         with
-C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(34,9): error C2297:         [
-C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(34,9): error C2297:             T=const char *
-C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(34,9): error C2297:         ]
-      C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(34,9):
-      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
-          C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(52,38):
-          컴파일되는 클래스 템플릿 인스턴스화 'Container<const char *>'에 대한 참조를 확인하세요.
-          C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(29,1):
-          클래스 템플릿 멤버 함수 'const int &Container<const char *>::Sum(void)'을(를) 컴파일하는 중입니다.
-  
-C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(34,9): error C2040: '+=': 'int'의 간접 참조 수준이 'T'과(와) 다릅니다.
-C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(34,9): error C2040:         with
-C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(34,9): error C2040:         [
-C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(34,9): error C2040:             T=const char *
-C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\Container.cpp(34,9): error C2040:         ]
+﻿  Program.cpp
+  Resource.cpp
   코드를 생성하고 있습니다...
+  Program.vcxproj -> C:\Users\iheug\OneDrive\바탕 화면\CPP_Program\Program\x64\Debug\Program.exe
