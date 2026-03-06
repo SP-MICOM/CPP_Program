@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Container.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|solutionrelative:Container.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|solutionrelative:Container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04410FC1-63A9-4963-9D4C-E5AED6A8B6AF}|..\\Class9th (Smart Pointer)\\Class9th (Smart Pointer).vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class9th (Smart Pointer)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04410FC1-63A9-4963-9D4C-E5AED6A8B6AF}|..\\Class9th (Smart Pointer)\\Class9th (Smart Pointer).vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class9th (Smart Pointer)\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04410FC1-63A9-4963-9D4C-E5AED6A8B6AF}|..\\Class9th (Smart Pointer)\\Class9th (Smart Pointer).vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class9th (Smart Pointer)\\Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04410FC1-63A9-4963-9D4C-E5AED6A8B6AF}|..\\Class9th (Smart Pointer)\\Class9th (Smart Pointer).vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class9th (Smart Pointer)\\Resource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04410FC1-63A9-4963-9D4C-E5AED6A8B6AF}|..\\Class9th (Smart Pointer)\\Class9th (Smart Pointer).vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class9th (Smart Pointer)\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04410FC1-63A9-4963-9D4C-E5AED6A8B6AF}|..\\Class9th (Smart Pointer)\\Class9th (Smart Pointer).vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class9th (Smart Pointer)\\Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04410FC1-63A9-4963-9D4C-E5AED6A8B6AF}|..\\Class9th (Smart Pointer)\\Class9th (Smart Pointer).vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class9th (Smart Pointer)\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|solutionrelative:stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D52BF9-0032-435C-9FBB-E81FCD78A6D7}|..\\Class8th (Template)\\Class8th (Template).vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class8th (Template)\\Container.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Container.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Container.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{060C2784-E414-4BD6-B994-8BD26A6EE05F}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class7th (Encapsulation)\\Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -86,8 +110,8 @@
       "RelativeMoniker": "D:0:0:{204AAB7B-6996-4385-B333-15F2810FA923}|..\\Class5th (Polymorphism)\\Class5th (Polymorphism).vcxproj|solutionrelative:Messege.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{204AAB7B-6996-4385-B333-15F2810FA923}|..\\Class5th (Polymorphism)\\Class5th (Polymorphism).vcxproj|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{204AAB7B-6996-4385-B333-15F2810FA923}|..\\Class5th (Polymorphism)\\Class5th (Polymorphism).vcxproj|solutionrelative:stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -97,7 +121,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 31,
           "Children": [
             {
               "$type": "Bookmark",
@@ -105,7 +129,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class9th (Smart Pointer)\\Character.cpp",
+              "RelativeDocumentMoniker": "..\\Class9th (Smart Pointer)\\Character.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class9th (Smart Pointer)\\Character.cpp",
+              "RelativeToolTip": "..\\Class9th (Smart Pointer)\\Character.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T12:17:58.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Material.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class9th (Smart Pointer)\\Material.cpp",
+              "RelativeDocumentMoniker": "..\\Class9th (Smart Pointer)\\Material.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class9th (Smart Pointer)\\Material.cpp",
+              "RelativeToolTip": "..\\Class9th (Smart Pointer)\\Material.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T12:17:56.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resource.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class9th (Smart Pointer)\\Resource.cpp",
+              "RelativeDocumentMoniker": "..\\Class9th (Smart Pointer)\\Resource.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class9th (Smart Pointer)\\Resource.cpp",
+              "RelativeToolTip": "..\\Class9th (Smart Pointer)\\Resource.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T12:17:53.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resource.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class9th (Smart Pointer)\\Resource.h",
+              "RelativeDocumentMoniker": "..\\Class9th (Smart Pointer)\\Resource.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class9th (Smart Pointer)\\Resource.h",
+              "RelativeToolTip": "..\\Class9th (Smart Pointer)\\Resource.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-06T12:17:52.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Material.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class9th (Smart Pointer)\\Material.h",
+              "RelativeDocumentMoniker": "..\\Class9th (Smart Pointer)\\Material.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class9th (Smart Pointer)\\Material.h",
+              "RelativeToolTip": "..\\Class9th (Smart Pointer)\\Material.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-06T12:17:50.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Character.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class9th (Smart Pointer)\\Character.h",
+              "RelativeDocumentMoniker": "..\\Class9th (Smart Pointer)\\Character.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class9th (Smart Pointer)\\Character.h",
+              "RelativeToolTip": "..\\Class9th (Smart Pointer)\\Character.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-06T12:17:35.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class9th (Smart Pointer)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class9th (Smart Pointer)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class9th (Smart Pointer)\\Source.cpp",
+              "RelativeToolTip": "..\\Class9th (Smart Pointer)\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T12:14:56.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Container.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class8th (Template)\\Container.h",
+              "RelativeDocumentMoniker": "..\\Class8th (Template)\\Container.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class8th (Template)\\Container.h",
+              "RelativeToolTip": "..\\Class8th (Template)\\Container.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-06T11:02:00.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "Container.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Container.cpp",
               "RelativeDocumentMoniker": "Container.cpp",
@@ -113,25 +241,22 @@
               "RelativeToolTip": "Container.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-03T12:41:16.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T12:41:16.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Container.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Container.h",
               "RelativeDocumentMoniker": "Container.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Container.h",
               "RelativeToolTip": "Container.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-03T12:41:03.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T12:41:03.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Vector2.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class7th (Encapsulation)\\Vector2.h",
               "RelativeDocumentMoniker": "..\\Class7th (Encapsulation)\\Vector2.h",
@@ -139,12 +264,11 @@
               "RelativeToolTip": "..\\Class7th (Encapsulation)\\Vector2.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-03T11:44:47.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T11:44:47.336Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "Vector2.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class7th (Encapsulation)\\Vector2.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Encapsulation)\\Vector2.cpp",
@@ -152,12 +276,11 @@
               "RelativeToolTip": "..\\Class7th (Encapsulation)\\Vector2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-03T11:44:46.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T11:44:46.552Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class7th (Encapsulation)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Encapsulation)\\Source.cpp",
@@ -165,12 +288,11 @@
               "RelativeToolTip": "..\\Class7th (Encapsulation)\\Source.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-03T11:38:12.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T11:38:12.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "Wisdom.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Wisdom.cpp",
               "RelativeDocumentMoniker": "Wisdom.cpp",
@@ -182,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "Dexterity.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Dexterity.h",
               "RelativeDocumentMoniker": "Dexterity.h",
@@ -194,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "Strength.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Strength.h",
               "RelativeDocumentMoniker": "Strength.h",
@@ -206,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "Wisdom.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Wisdom.h",
               "RelativeDocumentMoniker": "Wisdom.h",
@@ -214,12 +336,11 @@
               "RelativeToolTip": "Wisdom.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-24T11:22:56.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T11:22:56.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "Strength.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Strength.cpp",
               "RelativeDocumentMoniker": "Strength.cpp",
@@ -231,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "Dexterity.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Dexterity.cpp",
               "RelativeDocumentMoniker": "Dexterity.cpp",
@@ -243,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "Stat.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Stat.h",
               "RelativeDocumentMoniker": "Stat.h",
@@ -255,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "Stat.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Stat.cpp",
               "RelativeDocumentMoniker": "Stat.cpp",
@@ -267,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "Potion.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Potion.h",
               "RelativeDocumentMoniker": "Potion.h",
@@ -279,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "Potion.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Potion.cpp",
               "RelativeDocumentMoniker": "Potion.cpp",
@@ -291,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "Consumable.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Consumable.h",
               "RelativeDocumentMoniker": "Consumable.h",
@@ -303,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "Consumable.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Consumable.cpp",
               "RelativeDocumentMoniker": "Consumable.cpp",
@@ -315,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "Messege.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Messege.cpp",
               "RelativeDocumentMoniker": "Messege.cpp",
@@ -327,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "Messege.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Messege.h",
               "RelativeDocumentMoniker": "Messege.h",
@@ -339,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 8,
               "Title": "stdafx.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\stdafx.h",
               "RelativeDocumentMoniker": "stdafx.h",
@@ -347,11 +468,12 @@
               "RelativeToolTip": "stdafx.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-20T12:06:18.17Z"
+              "WhenOpened": "2026-02-20T12:06:18.17Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class 4th (Inheritance)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class 4th (Inheritance)\\Source.cpp",
@@ -363,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Class1th (Stream)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class1th (Stream)\\Source.cpp",
@@ -375,13 +497,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPP_Program\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-10T11:05:13.019Z",
               "EditorCaption": ""
