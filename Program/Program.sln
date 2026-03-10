@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Program", "Program.vcxproj", "{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}"
 EndProject
@@ -22,6 +22,10 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class8th (Template)", "..\Class8th (Template)\Class8th (Template).vcxproj", "{20D52BF9-0032-435C-9FBB-E81FCD78A6D7}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class9th (Smart Pointer)", "..\Class9th (Smart Pointer)\Class9th (Smart Pointer).vcxproj", "{04410FC1-63A9-4963-9D4C-E5AED6A8B6AF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class10th (Linear Container)", "..\Class10th (Linear Container)\Class10th (Linear Container).vcxproj", "{A52889A5-9A08-40CC-906D-91C90902AAF9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class11th (Container Adapter)", "..\Class11th (Container Adapter)\Class11th (Container Adapter).vcxproj", "{A223BA23-4E7E-4BCD-A11F-272C12F79298}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +115,22 @@ Global
 		{04410FC1-63A9-4963-9D4C-E5AED6A8B6AF}.Release|x64.Build.0 = Release|x64
 		{04410FC1-63A9-4963-9D4C-E5AED6A8B6AF}.Release|x86.ActiveCfg = Release|Win32
 		{04410FC1-63A9-4963-9D4C-E5AED6A8B6AF}.Release|x86.Build.0 = Release|Win32
+		{A52889A5-9A08-40CC-906D-91C90902AAF9}.Debug|x64.ActiveCfg = Debug|x64
+		{A52889A5-9A08-40CC-906D-91C90902AAF9}.Debug|x64.Build.0 = Debug|x64
+		{A52889A5-9A08-40CC-906D-91C90902AAF9}.Debug|x86.ActiveCfg = Debug|Win32
+		{A52889A5-9A08-40CC-906D-91C90902AAF9}.Debug|x86.Build.0 = Debug|Win32
+		{A52889A5-9A08-40CC-906D-91C90902AAF9}.Release|x64.ActiveCfg = Release|x64
+		{A52889A5-9A08-40CC-906D-91C90902AAF9}.Release|x64.Build.0 = Release|x64
+		{A52889A5-9A08-40CC-906D-91C90902AAF9}.Release|x86.ActiveCfg = Release|Win32
+		{A52889A5-9A08-40CC-906D-91C90902AAF9}.Release|x86.Build.0 = Release|Win32
+		{A223BA23-4E7E-4BCD-A11F-272C12F79298}.Debug|x64.ActiveCfg = Debug|x64
+		{A223BA23-4E7E-4BCD-A11F-272C12F79298}.Debug|x64.Build.0 = Debug|x64
+		{A223BA23-4E7E-4BCD-A11F-272C12F79298}.Debug|x86.ActiveCfg = Debug|Win32
+		{A223BA23-4E7E-4BCD-A11F-272C12F79298}.Debug|x86.Build.0 = Debug|Win32
+		{A223BA23-4E7E-4BCD-A11F-272C12F79298}.Release|x64.ActiveCfg = Release|x64
+		{A223BA23-4E7E-4BCD-A11F-272C12F79298}.Release|x64.Build.0 = Release|x64
+		{A223BA23-4E7E-4BCD-A11F-272C12F79298}.Release|x86.ActiveCfg = Release|Win32
+		{A223BA23-4E7E-4BCD-A11F-272C12F79298}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
