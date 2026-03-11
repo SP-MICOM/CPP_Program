@@ -7,18 +7,21 @@
       "RelativeMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A839853-F579-4294-9646-FDFE248849BC}|..\\Class 4th (Inheritance)\\Class 4th (Inheritance).vcxproj|C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Program\\Consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7A839853-F579-4294-9646-FDFE248849BC}|..\\Class 4th (Inheritance)\\Class 4th (Inheritance).vcxproj|solutionrelative:Consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{19D1ACAD-8829-4A54-BB71-28D5B44FFE20}|..\\Class1th (Stream)\\Class1th (Stream).vcxproj|C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Class1th (Stream)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Program\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B1F710E4-D0B9-4E24-A626-24E4B3D7CF3D}|Program.vcxproj|solutionrelative:stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20D52BF9-0032-435C-9FBB-E81FCD78A6D7}|..\\Class8th (Template)\\Class8th (Template).vcxproj|C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Class8th (Template)\\Language.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{20D52BF9-0032-435C-9FBB-E81FCD78A6D7}|..\\Class8th (Template)\\Class8th (Template).vcxproj|C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Class8th (Template)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20D52BF9-0032-435C-9FBB-E81FCD78A6D7}|..\\Class8th (Template)\\Class8th (Template).vcxproj|C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Class8th (Template)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7A839853-F579-4294-9646-FDFE248849BC}|..\\Class 4th (Inheritance)\\Class 4th (Inheritance).vcxproj|C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Program\\Consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A839853-F579-4294-9646-FDFE248849BC}|..\\Class 4th (Inheritance)\\Class 4th (Inheritance).vcxproj|solutionrelative:Consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D52BF9-0032-435C-9FBB-E81FCD78A6D7}|..\\Class8th (Template)\\Class8th (Template).vcxproj|C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Class8th (Template)\\Language.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{204AAB7B-6996-4385-B333-15F2810FA923}|..\\Class5th (Polymorphism)\\Class5th (Polymorphism).vcxproj|C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Program\\Messege.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -65,9 +68,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{19DC1C4C-FA01-49AD-9288-D5B08B714CAA}|..\\Class3th (Constructor \u0026 Destructor)\\Class3th (Constructor \u0026 Destructor).vcxproj|C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Class3th (Constructor \u0026 Destructor)\\Source..cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19D1ACAD-8829-4A54-BB71-28D5B44FFE20}|..\\Class1th (Stream)\\Class1th (Stream).vcxproj|C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Class1th (Stream)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30952CEC-6FFD-4C4E-9CF4-05E307937EE0}|..\\Class2th (Class)\\Class2th (Class).vcxproj|C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Class2th (Class)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -160,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Language.cpp",
               "DocumentMoniker": "C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Class8th (Template)\\Language.cpp",
               "RelativeDocumentMoniker": "..\\Class8th (Template)\\Language.cpp",
@@ -172,15 +172,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Class8th (Template)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class8th (Template)\\Source.cpp",
               "ToolTip": "C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Class8th (Template)\\Source.cpp",
               "RelativeToolTip": "..\\Class8th (Template)\\Source.cpp",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwDAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwDAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-05T11:14:12.229Z"
+              "WhenOpened": "2026-03-05T11:14:12.229Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -192,11 +193,12 @@
               "RelativeToolTip": "stdafx.h",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-04T12:35:06.977Z"
+              "WhenOpened": "2026-03-04T12:35:06.977Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Stat.h",
               "DocumentMoniker": "C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Program\\Stat.h",
               "RelativeDocumentMoniker": "Stat.h",
@@ -208,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Messege.h",
               "DocumentMoniker": "C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Program\\Messege.h",
               "RelativeDocumentMoniker": "Messege.h",
@@ -220,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Messege.cpp",
               "DocumentMoniker": "C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Program\\Messege.cpp",
               "RelativeDocumentMoniker": "Messege.cpp",
@@ -232,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Vector2.h",
               "DocumentMoniker": "C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Class7th (Encapsulation)\\Vector2.h",
               "RelativeDocumentMoniker": "..\\Class7th (Encapsulation)\\Vector2.h",
@@ -244,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Vector2.cpp",
               "DocumentMoniker": "C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Class7th (Encapsulation)\\Vector2.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Encapsulation)\\Vector2.cpp",
@@ -280,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Class6th (Abstract).cpp",
               "DocumentMoniker": "C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Class6th (Abstract)\\Class6th (Abstract).cpp",
               "RelativeDocumentMoniker": "..\\Class6th (Abstract)\\Class6th (Abstract).cpp",
@@ -292,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Stat.cpp",
               "DocumentMoniker": "C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Program\\Stat.cpp",
               "RelativeDocumentMoniker": "Stat.cpp",
@@ -304,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Class5th (Polymorphism)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class5th (Polymorphism)\\Source.cpp",
@@ -316,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Class 4th (Inheritance)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class 4th (Inheritance)\\Source.cpp",
@@ -328,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Potion.cpp",
               "DocumentMoniker": "C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Program\\Potion.cpp",
               "RelativeDocumentMoniker": "Potion.cpp",
@@ -340,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Potion.h",
               "DocumentMoniker": "C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Program\\Potion.h",
               "RelativeDocumentMoniker": "Potion.h",
@@ -352,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Consumable.cpp",
               "DocumentMoniker": "C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Program\\Consumable.cpp",
               "RelativeDocumentMoniker": "Consumable.cpp",
@@ -364,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Consumable.h",
               "DocumentMoniker": "C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Program\\Consumable.h",
               "RelativeDocumentMoniker": "Consumable.h",
@@ -372,12 +374,11 @@
               "RelativeToolTip": "Consumable.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-19T12:08:26.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T12:08:26.224Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Source..cpp",
               "DocumentMoniker": "C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Class3th (Constructor \u0026 Destructor)\\Source..cpp",
               "RelativeDocumentMoniker": "..\\Class3th (Constructor \u0026 Destructor)\\Source..cpp",
@@ -389,15 +390,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 1,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Class1th (Stream)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class1th (Stream)\\Source.cpp",
               "ToolTip": "C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Class1th (Stream)\\Source.cpp",
               "RelativeToolTip": "..\\Class1th (Stream)\\Source.cpp",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEIAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-11T11:08:39.435Z"
+              "WhenOpened": "2026-02-11T11:08:39.435Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -419,7 +421,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CPP_Program\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwE0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-11T11:06:28.359Z",
               "EditorCaption": ""
